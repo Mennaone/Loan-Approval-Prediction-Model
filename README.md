@@ -1,1 +1,1 @@
-# Loan-Approval-Prediction-Model
+# Give Me Some Credit Prediction Model
